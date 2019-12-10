@@ -1,0 +1,132 @@
+//============================================Elever imellem 0-9============================================
+function myFunction0() {document.getElementById("elev0").classList.toggle("accept");document.getElementById("telev0").classList.toggle("taccept");};            //Elev 0
+function myFunction1() {document.getElementById("elev1").classList.toggle("accept");document.getElementById("telev1").classList.toggle("taccept");};            //Elev 1
+function myFunction2() {document.getElementById("elev2").classList.toggle("accept");document.getElementById("telev2").classList.toggle("taccept");};            //Elev 2
+function myFunction3() {document.getElementById("elev3").classList.toggle("accept");document.getElementById("telev3").classList.toggle("taccept");};            //Elev 3
+function myFunction4() {document.getElementById("elev4").classList.toggle("accept");document.getElementById("telev4").classList.toggle("taccept");};            //Elev 4
+function myFunction5() {document.getElementById("elev5").classList.toggle("accept");document.getElementById("telev5").classList.toggle("taccept");};            //Elev 5
+function myFunction6() {document.getElementById("elev6").classList.toggle("accept");document.getElementById("telev6").classList.toggle("taccept");};            //Elev 6
+function myFunction7() {document.getElementById("elev7").classList.toggle("accept");document.getElementById("telev7").classList.toggle("taccept");};            //Elev 7
+function myFunction8() {document.getElementById("elev8").classList.toggle("accept");document.getElementById("telev8").classList.toggle("taccept");};            //Elev 8
+function myFunction9() {document.getElementById("elev9").classList.toggle("accept");document.getElementById("telev9").classList.toggle("taccept");};           //Elev 9
+//============================================Elever imellem 10-19============================================
+function myFunction10() {document.getElementById("elev10").classList.toggle("accept");document.getElementById("telev10").classList.toggle("taccept");};          //Elev 10
+function myFunction11() {document.getElementById("elev11").classList.toggle("accept");document.getElementById("telev11").classList.toggle("taccept");};          //Elev 11
+function myFunction12() {document.getElementById("elev12").classList.toggle("accept");document.getElementById("telev12").classList.toggle("taccept");};          //Elev 12
+function myFunction13() {document.getElementById("elev13").classList.toggle("accept");document.getElementById("telev13").classList.toggle("taccept");};          //Elev 13
+function myFunction14() {document.getElementById("elev14").classList.toggle("accept");document.getElementById("telev14").classList.toggle("taccept");};          //Elev 14
+function myFunction15() {document.getElementById("elev15").classList.toggle("accept");document.getElementById("telev15").classList.toggle("taccept");};          //Elev 15
+function myFunction16() {document.getElementById("elev16").classList.toggle("accept");document.getElementById("telev16").classList.toggle("taccept");};          //Elev 16
+function myFunction17() {document.getElementById("elev17").classList.toggle("accept");document.getElementById("telev17").classList.toggle("taccept");};          //Elev 17
+function myFunction18() {document.getElementById("elev18").classList.toggle("accept");document.getElementById("telev18").classList.toggle("taccept");};          //Elev 18
+function myFunction19() {document.getElementById("elev19").classList.toggle("accept");document.getElementById("telev19").classList.toggle("taccept");};          //Elev 19
+//============================================Elever imellem 20-29============================================
+function myFunction20() {document.getElementById("elev20").classList.toggle("accept");document.getElementById("telev20").classList.toggle("taccept");};          //Elev 20
+function myFunction21() {document.getElementById("elev21").classList.toggle("accept");document.getElementById("telev21").classList.toggle("taccept");};          //Elev 21
+function myFunction22() {document.getElementById("elev22").classList.toggle("accept");document.getElementById("telev22").classList.toggle("taccept");};          //Elev 22
+function myFunction23() {document.getElementById("elev23").classList.toggle("accept");document.getElementById("telev23").classList.toggle("taccept");};          //Elev 23
+function myFunction24() {document.getElementById("elev24").classList.toggle("accept");document.getElementById("telev24").classList.toggle("taccept");};          //Elev 24
+function myFunction25() {document.getElementById("elev25").classList.toggle("accept");document.getElementById("telev25").classList.toggle("taccept");};          //Elev 25
+function myFunction26() {document.getElementById("elev26").classList.toggle("accept");document.getElementById("telev26").classList.toggle("taccept");};          //Elev 26
+function myFunction27() {document.getElementById("elev27").classList.toggle("accept");document.getElementById("telev27").classList.toggle("taccept");};          //Elev 27
+function myFunction28() {document.getElementById("elev28").classList.toggle("accept");document.getElementById("telev28").classList.toggle("taccept");};          //Elev 28
+function myFunction29() {document.getElementById("elev29").classList.toggle("accept");document.getElementById("telev29").classList.toggle("taccept");};          //Elev 29
+//============================================Elever imellem 30-39============================================
+function myFunction30() {document.getElementById("elev30").classList.toggle("accept");document.getElementById("telev30").classList.toggle("taccept");};          //Elev 30
+function myFunction31() {document.getElementById("elev31").classList.toggle("accept");document.getElementById("telev31").classList.toggle("taccept");};          //Elev 31
+function myFunction32() {document.getElementById("elev32").classList.toggle("accept");document.getElementById("telev32").classList.toggle("taccept");};          //Elev 32
+function myFunction33() {document.getElementById("elev33").classList.toggle("accept");document.getElementById("telev33").classList.toggle("taccept");};          //Elev 33
+function myFunction34() {document.getElementById("elev34").classList.toggle("accept");document.getElementById("telev34").classList.toggle("taccept");};          //Elev 34
+function myFunction35() {document.getElementById("elev35").classList.toggle("accept");document.getElementById("telev35").classList.toggle("taccept");};          //Elev 35
+function myFunction36() {document.getElementById("elev36").classList.toggle("accept");document.getElementById("telev36").classList.toggle("taccept");};          //Elev 36
+function myFunction37() {document.getElementById("elev37").classList.toggle("accept");document.getElementById("telev37").classList.toggle("taccept");};          //Elev 37
+function myFunction38() {document.getElementById("elev38").classList.toggle("accept");document.getElementById("telev38").classList.toggle("taccept");};          //Elev 38
+function myFunction39() {document.getElementById("elev39").classList.toggle("accept");document.getElementById("telev39").classList.toggle("taccept");};          //Elev 39
+//============================================Elever imellem 40-49============================================
+function myFunction40() {document.getElementById("elev40").classList.toggle("accept");document.getElementById("telev40").classList.toggle("taccept");};          //Elev 40
+function myFunction41() {document.getElementById("elev41").classList.toggle("accept");document.getElementById("telev41").classList.toggle("taccept");};          //Elev 41
+function myFunction42() {document.getElementById("elev42").classList.toggle("accept");document.getElementById("telev42").classList.toggle("taccept");};          //Elev 42
+function myFunction43() {document.getElementById("elev43").classList.toggle("accept");document.getElementById("telev43").classList.toggle("taccept");};          //Elev 43
+function myFunction44() {document.getElementById("elev44").classList.toggle("accept");document.getElementById("telev44").classList.toggle("taccept");};          //Elev 44
+function myFunction45() {document.getElementById("elev45").classList.toggle("accept");document.getElementById("telev45").classList.toggle("taccept");};          //Elev 45
+function myFunction46() {document.getElementById("elev46").classList.toggle("accept");document.getElementById("telev46").classList.toggle("taccept");};          //Elev 46
+function myFunction47() {document.getElementById("elev47").classList.toggle("accept");document.getElementById("telev47").classList.toggle("taccept");};          //Elev 47
+function myFunction48() {document.getElementById("elev48").classList.toggle("accept");document.getElementById("telev48").classList.toggle("taccept");};          //Elev 48
+function myFunction49() {document.getElementById("elev49").classList.toggle("accept");document.getElementById("telev49").classList.toggle("taccept");};          //Elev 49
+//============================================Elever imellem 50-59============================================
+function myFunction50() {document.getElementById("elev50").classList.toggle("accept");document.getElementById("telev50").classList.toggle("taccept");};          //Elev 50
+function myFunction51() {document.getElementById("elev51").classList.toggle("accept");document.getElementById("telev51").classList.toggle("taccept");};          //Elev 51
+function myFunction52() {document.getElementById("elev52").classList.toggle("accept");document.getElementById("telev52").classList.toggle("taccept");};          //Elev 52
+function myFunction53() {document.getElementById("elev53").classList.toggle("accept");document.getElementById("telev53").classList.toggle("taccept");};          //Elev 53
+function myFunction54() {document.getElementById("elev54").classList.toggle("accept");document.getElementById("telev54").classList.toggle("taccept");};          //Elev 54
+function myFunction55() {document.getElementById("elev55").classList.toggle("accept");document.getElementById("telev55").classList.toggle("taccept");};          //Elev 55
+function myFunction56() {document.getElementById("elev56").classList.toggle("accept");document.getElementById("telev56").classList.toggle("taccept");};          //Elev 56
+function myFunction57() {document.getElementById("elev57").classList.toggle("accept");document.getElementById("telev57").classList.toggle("taccept");};          //Elev 57
+function myFunction58() {document.getElementById("elev58").classList.toggle("accept");document.getElementById("telev58").classList.toggle("taccept");};         //Elev 58
+function myFunction59() {document.getElementById("elev59").classList.toggle("accept");document.getElementById("telev59").classList.toggle("taccept");};          //Elev 59
+//============================================Elever imellem 60-69============================================
+function myFunction60() {document.getElementById("elev60").classList.toggle("accept");document.getElementById("telev60").classList.toggle("taccept");};          //Elev 60
+function myFunction61() {document.getElementById("elev61").classList.toggle("accept");document.getElementById("telev61").classList.toggle("taccept");};          //Elev 61
+function myFunction62() {document.getElementById("elev62").classList.toggle("accept");document.getElementById("telev62").classList.toggle("taccept");};          //Elev 62
+function myFunction63() {document.getElementById("elev63").classList.toggle("accept");document.getElementById("telev63").classList.toggle("taccept");};          //Elev 63
+function myFunction64() {document.getElementById("elev64").classList.toggle("accept");document.getElementById("telev64").classList.toggle("taccept");};          //Elev 64
+function myFunction65() {document.getElementById("elev65").classList.toggle("accept");document.getElementById("telev65").classList.toggle("taccept");};          //Elev 65
+function myFunction66() {document.getElementById("elev66").classList.toggle("accept");document.getElementById("telev66").classList.toggle("taccept");};          //Elev 66
+function myFunction67() {document.getElementById("elev67").classList.toggle("accept");document.getElementById("telev67").classList.toggle("taccept");};          //Elev 67
+function myFunction68() {document.getElementById("elev68").classList.toggle("accept");document.getElementById("telev68").classList.toggle("taccept");};          //Elev 68
+function myFunction69() {document.getElementById("elev69").classList.toggle("accept");document.getElementById("telev69").classList.toggle("taccept");};          //Elev 69
+//============================================Elever imellem 70-79============================================
+function myFunction70() {document.getElementById("elev70").classList.toggle("accept");document.getElementById("telev70").classList.toggle("taccept");};          //Elev 70
+function myFunction71() {document.getElementById("elev71").classList.toggle("accept");document.getElementById("telev71").classList.toggle("taccept");};          //Elev 71
+function myFunction72() {document.getElementById("elev72").classList.toggle("accept");document.getElementById("telev72").classList.toggle("taccept");};          //Elev 72
+function myFunction73() {document.getElementById("elev73").classList.toggle("accept");document.getElementById("telev73").classList.toggle("taccept");};          //Elev 73
+function myFunction74() {document.getElementById("elev74").classList.toggle("accept");document.getElementById("telev74").classList.toggle("taccept");};          //Elev 74
+function myFunction75() {document.getElementById("elev75").classList.toggle("accept");document.getElementById("telev75").classList.toggle("taccept");};          //Elev 75
+function myFunction76() {document.getElementById("elev76").classList.toggle("accept");document.getElementById("telev76").classList.toggle("taccept");};          //Elev 76
+function myFunction77() {document.getElementById("elev77").classList.toggle("accept");document.getElementById("telev77").classList.toggle("taccept");};          //Elev 77
+function myFunction78() {document.getElementById("elev78").classList.toggle("accept");document.getElementById("telev78").classList.toggle("taccept");};          //Elev 78
+function myFunction79() {document.getElementById("elev79").classList.toggle("accept");document.getElementById("telev79").classList.toggle("taccept");};          //Elev 79
+//============================================Elever imellem 80-89============================================
+function myFunction80() {document.getElementById("elev80").classList.toggle("accept");document.getElementById("telev80").classList.toggle("taccept");};          //Elev 80
+function myFunction81() {document.getElementById("elev81").classList.toggle("accept");document.getElementById("telev81").classList.toggle("taccept");};          //Elev 81
+function myFunction82() {document.getElementById("elev82").classList.toggle("accept");document.getElementById("telev82").classList.toggle("taccept");};          //Elev 82
+function myFunction83() {document.getElementById("elev83").classList.toggle("accept");document.getElementById("telev83").classList.toggle("taccept");};          //Elev 83
+function myFunction84() {document.getElementById("elev84").classList.toggle("accept");document.getElementById("telev84").classList.toggle("taccept");};          //Elev 84
+function myFunction85() {document.getElementById("elev85").classList.toggle("accept");document.getElementById("telev85").classList.toggle("taccept");};          //Elev 85
+function myFunction86() {document.getElementById("elev86").classList.toggle("accept");document.getElementById("telev86").classList.toggle("taccept");};          //Elev 86
+function myFunction87() {document.getElementById("elev87").classList.toggle("accept");document.getElementById("telev87").classList.toggle("taccept");};          //Elev 87
+function myFunction88() {document.getElementById("elev88").classList.toggle("accept");document.getElementById("telev88").classList.toggle("taccept");};          //Elev 88
+function myFunction89() {document.getElementById("elev89").classList.toggle("accept");document.getElementById("telev89").classList.toggle("taccept");};          //Elev 89
+//============================================Elever imellem 90-99============================================
+function myFunction90() {document.getElementById("elev90").classList.toggle("accept");document.getElementById("telev90").classList.toggle("taccept");};          //Elev 90
+function myFunction91() {document.getElementById("elev91").classList.toggle("accept");document.getElementById("telev91").classList.toggle("taccept");};          //Elev 91
+function myFunction92() {document.getElementById("elev92").classList.toggle("accept");document.getElementById("telev92").classList.toggle("taccept");};          //Elev 92
+function myFunction93() {document.getElementById("elev93").classList.toggle("accept");document.getElementById("telev93").classList.toggle("taccept");};          //Elev 93
+function myFunction94() {document.getElementById("elev94").classList.toggle("accept");document.getElementById("telev94").classList.toggle("taccept");};          //Elev 94
+function myFunction95() {document.getElementById("elev95").classList.toggle("accept");document.getElementById("telev95").classList.toggle("taccept");};          //Elev 95
+function myFunction96() {document.getElementById("elev96").classList.toggle("accept");document.getElementById("telev96").classList.toggle("taccept");};          //Elev 96
+function myFunction97() {document.getElementById("elev97").classList.toggle("accept");document.getElementById("telev97").classList.toggle("taccept");};          //Elev 97
+function myFunction98() {document.getElementById("elev98").classList.toggle("accept");document.getElementById("telev98").classList.toggle("taccept");};          //Elev 98
+function myFunction99() {document.getElementById("elev99").classList.toggle("accept");document.getElementById("telev99").classList.toggle("taccept");};          //Elev 99
+//============================================Elever imellem 100-109============================================
+function myFunction100() {document.getElementById("elev100").classList.toggle("accept");document.getElementById("telev100").classList.toggle("taccept");};        //Elev 100
+function myFunction101() {document.getElementById("elev101").classList.toggle("accept");document.getElementById("telev101").classList.toggle("taccept");};        //Elev 101
+function myFunction102() {document.getElementById("elev102").classList.toggle("accept");document.getElementById("telev102").classList.toggle("taccept");};        //Elev 102
+function myFunction103() {document.getElementById("elev103").classList.toggle("accept");document.getElementById("telev103").classList.toggle("taccept");};        //Elev 103
+function myFunction104() {document.getElementById("elev104").classList.toggle("accept");document.getElementById("telev104").classList.toggle("taccept");};        //Elev 104
+function myFunction105() {document.getElementById("elev105").classList.toggle("accept");document.getElementById("telev105").classList.toggle("taccept");};        //Elev 105
+function myFunction106() {document.getElementById("elev106").classList.toggle("accept");document.getElementById("telev106").classList.toggle("taccept");};        //Elev 106
+function myFunction107() {document.getElementById("elev107").classList.toggle("accept");document.getElementById("telev107").classList.toggle("taccept");};        //Elev 107
+function myFunction108() {document.getElementById("elev108").classList.toggle("accept");document.getElementById("telev108").classList.toggle("taccept");};        //Elev 108
+function myFunction109() {document.getElementById("elev109").classList.toggle("accept");document.getElementById("telev109").classList.toggle("taccept");};        //Elev 109
+//============================================Elever imellem 110-119============================================
+function myFunction110() {document.getElementById("elev110").classList.toggle("accept");document.getElementById("telev110").classList.toggle("taccept");};        //Elev 110
+function myFunction111() {document.getElementById("elev111").classList.toggle("accept");document.getElementById("telev111").classList.toggle("taccept");};        //Elev 111
+function myFunction112() {document.getElementById("elev112").classList.toggle("accept");document.getElementById("telev112").classList.toggle("taccept");};        //Elev 112
+function myFunction113() {document.getElementById("elev113").classList.toggle("accept");document.getElementById("telev113").classList.toggle("taccept");};        //Elev 113
+function myFunction114() {document.getElementById("elev114").classList.toggle("accept");document.getElementById("telev114").classList.toggle("taccept");};        //Elev 114
+function myFunction115() {document.getElementById("elev115").classList.toggle("accept");document.getElementById("telev115").classList.toggle("taccept");};        //Elev 115
+function myFunction116() {document.getElementById("elev116").classList.toggle("accept");document.getElementById("telev116").classList.toggle("taccept");};        //Elev 116
+function myFunction117() {document.getElementById("elev117").classList.toggle("accept");document.getElementById("telev117").classList.toggle("taccept");};        //Elev 117
+function myFunction118() {document.getElementById("elev118").classList.toggle("accept");document.getElementById("telev118").classList.toggle("taccept");};        //Elev 118
+function myFunction119() {document.getElementById("elev119").classList.toggle("accept");document.getElementById("telev119").classList.toggle("taccept");};        //Elev 119
